@@ -8,6 +8,6 @@ Required:
 
 Run example:
 
-1. Install dev dependecies: ```npm install```
+1. Install dev dependecies (first time only): ```npm install```
 2. Start development server: ```grunt serve```
 
